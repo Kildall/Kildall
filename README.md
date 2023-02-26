@@ -1,16 +1,19 @@
-### Hi there 👋
+##Hello, this is **Pedro**
 
-<!--
-**Kildall/Kildall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate 22 years old **Software Developer** based in **Argentina**, working as a **Fullstack Developer**.
+Currently studying **Systems Engineering** and constantly learning new technologies
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/kwEmwFUWO5Ety/giphy.gif" width="100"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const pedro = {
+  code: [Javascript, Typescript, C#, Python, Java],
+  tools: [Nuxt, React, .NET, Docker, Cloud, Jest, Docker],
+  qualifications: ["OpenJS Services Developer", "Full Stack Cloud Developer"],
+  currently: "I am working on a League of Legends unofficial documentation project."
+}
+```
+
+### <img src="https://media.giphy.com/media/ckTRTDXhDF652ltrK9/giphy.gif" width="50"> Hobbies (Basically gaming)
+
+I'm an avid gamer that when im not working or studying, I'll probably will be gaming with my friends.  
