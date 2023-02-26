@@ -9,8 +9,8 @@ Currently studying **Systems Engineering** and constantly learning new technolog
 const pedro = {
   code: [Javascript, Typescript, C#, Python, Java],
   tools: [Nuxt, React, '.NET', Docker, Cloud, Jest, Docker],
-  qualifications: ["OpenJS Services Developer", "Full Stack Cloud Developer"],
-  currently: "I am working on a League of Legends unofficial documentation project."
+  qualifications: ['OpenJS Services Developer', 'Full Stack Cloud Developer'],
+  currently: 'I am working on a League of Legends unofficial documentation project.'
 }
 ```
 
